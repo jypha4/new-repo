@@ -1,1 +1,6 @@
 safdklhsafdklsafdfklsafda
+<<<<<<< HEAD
+
+I need to eat ASAP
+=======
+>>>>>>> refs/remotes/origin/master
