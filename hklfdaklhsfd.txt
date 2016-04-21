@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 safdklhsafdklsafdfklsafda
 <<<<<<< HEAD
 
 I need to eat ASAP
 =======
 >>>>>>> refs/remotes/origin/master
+=======
+i wanna go and eat
+>>>>>>> refs/remotes/origin/my-branch
